@@ -104,31 +104,31 @@
 <!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--border line-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <h2><b>🌌I know how to use these!🌌</b></h2>
 </div>
 
-<!--got these from skillicons-->
+<!--fixed skillicons layout-->
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <h3>🖥️ Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=python,c,html,css&perline=7" /><br><br>
+  🖥️ <b>Programming Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css&perline=7"><br><br>
 
-    <h3>🧠 Tools & IDEs</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,github,git&perline=7" /><br><br>
+  🧠 <b>Tools & IDEs</b><br>
+  <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,github,git&perline=7"><br><br>
 
-    <h3>🧰 Frameworks & Libraries</h3>
-    N/A 🚫<br><br>
+  🧰 <b>Frameworks & Libraries</b><br>
+  N/A 🚫<br><br>
 
-    <h3>💬 Social & Productivity</h3>
-    <img src="https://skillicons.dev/icons?i=discord,notion,gmail,twitter,instagram&perline=7" /><br><br>
+  💬 <b>Social & Productivity</b><br>
+  <img src="https://skillicons.dev/icons?i=discord,notion,gmail,twitter,instagram&perline=7"><br><br>
 
-    <h3>🧩 OS / Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=7" /><br>
-  </a>
+  🧩 <b>OS / Platforms</b><br>
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=7"><br>
 </p>
 
-<!--border again-->
-
+<!--border line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
