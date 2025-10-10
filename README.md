@@ -77,9 +77,7 @@
   </p>
   <p>
     <b>Basic</b>:<br>
-    Java ☕<br>
-    JS 🟨<br>
-    Lua (for Roblox) 🌙<br>
+    ☕<br>
   </p>
 </div>
 
