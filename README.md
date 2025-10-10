@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>👾Welcome to my GitHub👾</h1>
+  <h1>👾Welcome to my PROFILE👾</h1>
 </div>
 
 <!--border line-->
@@ -25,8 +25,8 @@
 </div>
 
 <div align="center">
-  - <b>Name:</b> diparsan<br>
-  - <b>DOB(MM/DD/YYYY):</b> 01/31/2010<br>
+  - <b>Name:</b> DIPARSAN PATHAK<br>
+  - <b>DOB:</b> 01/31/2010<br>
   - <b>Interests:</b> Robotics, Math, Physics, Programming<br>
   - <b>Currently Studying:</b> Class 11 NEB Board<br>
 </div>
