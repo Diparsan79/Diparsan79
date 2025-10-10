@@ -1,49 +1,133 @@
-<h2 align="left">Hi there! My name is Diparsan Pathak and I'm a Passionate Programmer from Nepal.</h2>
+<!--border line-->
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diparsan79&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diparsan79&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsY3k4ZDd3cThycG4wMGV6OWdtM3czd2hxbzNzMTVicHpxN2Y4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif"  />
-
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <h1>👾Welcome to my GitHub👾</h1>
 </div>
 
-###
+<!--border line-->
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/diparsanpathak_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="www.linkedin.com/in/diparsan-pathak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--credit to vaxad for this amazing snake thing-->
+
+<div align="center">
+  <img  src="https://github.com/vaxad/vaxad/blob/main/grid-snake.svg"
+       alt="yoinked from github.com/vaxad" /></a>
 </div>
 
-###
+<!--border line-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br clear="both">
+<div align="center">
+  <h2><b>📝Introduction📝</b></h2>
+</div>
 
-###
+<div align="center">
+  - <b>Name:</b>DIPARSAN PATHAK<br>
+  - <b>DOB(MM/DD/YYYY):</b> 01/31/2010<br>
+  - <b>Interests:</b> Math, Physics, Algorithms, Programming<br>
+  - <b>Currently Studying:</b> NEB 11<br>
+</div>
+
+<!--border line-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2><b>👀About Me👀</b></h2>
+</div>
+
+<div align="center">
+    - 🔭 I am currently a student in Nepal, doing mostly math(olympiad and pure).<br>
+    - 🏅 Number 28 on ProjectEuler leaderboards of Nepal.<br>
+    - 👑 IMO, IOI Aspirant<br>
+    - ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
+</div>
+
+<!--border line-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2><b>❓Currently Doing❓</b></h2>
+</div>
+
+<div align="center">
+  - 3️⃣ Group Theory<br>
+  - ☕ Olympiad Math<br>
+  - 🧮 Algorithms<br>
+</div>
+
+<!--border line-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2><b>🦚Languages🦚</b></h2>
+</div>
+
+<div align="center">
+  <p>
+    <b>Proficient</b>:<br>
+    Python 🐍<br>
+    QBASIC 👴<br>
+  </p>
+  <p>
+    <b>Intermediate</b>:<br>
+    C 💪<br>
+  </p>
+  <p>
+    <b>Basic</b>:<br>
+    Java ☕<br>
+    JS 🟨<br>
+    Lua (for Roblox) 🌙<br>
+  </p>
+</div>
+
+<!--border line-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2><b>🌀Used IDEs🌀</b></h2>
+</div>
+
+<div align="center">
+  GVim 🗿<br>
+  PyCharm 🟩<br>
+  Eclipse 🌘<br>
+  VSCode 🔹<br>
+  NotePad 💪<br>
+  IntelliJ IDEA 💜<br>
+  DosBOX for QBASIC 📦<br>
+  DevC++ ➕<br>
+</div>
+
+<!--border line-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2><b>🎲Game Development Experience🎲</b></h2>
+</div>
+
+<div align="center">
+    Roblox 🔲<br>
+    Godot 🤖<br>
+</div>
+
+<!--border line-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2><b>🌌I know how to use these!🌌</b></h2>
+</div>
+
+<!--got these from skillicons-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,atom,c,cpp,css,discord,django,eclipse,github,gmail,godot,html,idea,instagram,java,js,lua,notion,ps,pr,pycharm,py,robloxstudio,stackoverflow,twitter,vim,vscode,windows&perline=7" />
+  </a>
+</p>
+
+<!--border again-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
