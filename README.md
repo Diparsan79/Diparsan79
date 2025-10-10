@@ -25,10 +25,10 @@
 </div>
 
 <div align="center">
-  - <b>Name:</b>DIPARSAN PATHAK<br>
+  - <b>Name:</b> diparsan<br>
   - <b>DOB(MM/DD/YYYY):</b> 01/31/2010<br>
-  - <b>Interests:</b> Math, Physics, Algorithms, Programming<br>
-  - <b>Currently Studying:</b> NEB 11<br>
+  - <b>Interests:</b> Robotics, Math, Physics, Programming<br>
+  - <b>Currently Studying:</b> Class 11 NEB Board<br>
 </div>
 
 <!--border line-->
@@ -39,10 +39,8 @@
 </div>
 
 <div align="center">
-    - 🔭 I am currently a student in Nepal, doing mostly math(olympiad and pure).<br>
-    - 🏅 Number 28 on ProjectEuler leaderboards of Nepal.<br>
-    - 👑 IMO, IOI Aspirant<br>
-    - ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
+    - 💻 Wannabe programmer<br>
+    - 💤 Lazy coder<br>
 </div>
 
 <!--border line-->
@@ -53,9 +51,7 @@
 </div>
 
 <div align="center">
-  - 3️⃣ Group Theory<br>
-  - ☕ Olympiad Math<br>
-  - 🧮 Algorithms<br>
+  - 🕒 Time waste<br>
 </div>
 
 <!--border line-->
@@ -68,16 +64,16 @@
 <div align="center">
   <p>
     <b>Proficient</b>:<br>
-    Python 🐍<br>
+    MLL (Machine Level Language) ⚙️<br>
     QBASIC 👴<br>
   </p>
   <p>
     <b>Intermediate</b>:<br>
-    C 💪<br>
+    Python 🐍<br>
   </p>
   <p>
     <b>Basic</b>:<br>
-    ☕<br>
+    C 💪<br>
   </p>
 </div>
 
@@ -89,14 +85,9 @@
 </div>
 
 <div align="center">
-  GVim 🗿<br>
   PyCharm 🟩<br>
-  Eclipse 🌘<br>
+  Vim 🗿<br>
   VSCode 🔹<br>
-  NotePad 💪<br>
-  IntelliJ IDEA 💜<br>
-  DosBOX for QBASIC 📦<br>
-  DevC++ ➕<br>
 </div>
 
 <!--border line-->
@@ -107,8 +98,7 @@
 </div>
 
 <div align="center">
-    Roblox 🔲<br>
-    Godot 🤖<br>
+    N/A 🚫<br>
 </div>
 
 <!--border line-->
@@ -122,7 +112,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,atom,c,cpp,css,discord,django,eclipse,github,gmail,godot,html,idea,instagram,java,js,lua,notion,ps,pr,pycharm,py,robloxstudio,stackoverflow,twitter,vim,vscode,windows&perline=7" />
+    <h3>🖥️ Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python,c,html,css&perline=7" /><br><br>
+
+    <h3>🧠 Tools & IDEs</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,github,git&perline=7" /><br><br>
+
+    <h3>🧰 Frameworks & Libraries</h3>
+    N/A 🚫<br><br>
+
+    <h3>💬 Social & Productivity</h3>
+    <img src="https://skillicons.dev/icons?i=discord,notion,gmail,twitter,instagram&perline=7" /><br><br>
+
+    <h3>🧩 OS / Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple&perline=7" /><br>
   </a>
 </p>
 
